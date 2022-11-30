@@ -1,0 +1,1 @@
+This directory consists of dataset files for the Stroke Prediction Classification project.
